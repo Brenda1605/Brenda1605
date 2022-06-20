@@ -10,7 +10,7 @@
 - 📱 Fun fact: I love movies and series.
 
 
-## 🖥 Programming languages & Technologies
+## 🖥 Languages & Technologies
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img width="10%" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg"></code>
