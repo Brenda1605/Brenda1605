@@ -24,11 +24,15 @@
 <code><img width="10%" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain-wordmark.svg"></code>
 <code><img width="10%" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg"></code>
 <code><img width="10%" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"></code>
+<code><img width="10%" height="60" src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-ar21.svg"></code>
 
 ## 📈 Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Brenda1605&layout=compact"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Brenda1605&show_icons=true"/>
+<br/>
+  <p align="left">
+    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Brenda1605&layout=compact"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Brenda1605&show_icons=true"/>
+  </p>
+<br>
 
 ## 📠 Connect with me
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brenda-paola-castillo-torres/)
